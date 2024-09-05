@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Smriti Pehim Limbu. I am an EEES postdoctoral fellow at Dartmouth College. I study plants and plant-associated microbes in the context of global environment change.
 
 <!--
 **Smritipehimlimbu/Smritipehimlimbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
